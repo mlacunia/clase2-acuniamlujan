@@ -7,7 +7,7 @@ function prom(x, y) {
     return (x + y) / 2
 }
 
-for (let i = 0; i < 3; i++) {
+for (let i = 0; i < 10; i++) {
 
     let legajo = parseInt(prompt('ingrese numero de legajo del alumno'));
     let primercuatri = parseFloat(prompt('ingrese nota del primer cuatrimestre'));
